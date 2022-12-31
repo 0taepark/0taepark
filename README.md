@@ -7,10 +7,10 @@
 
 <h2>💻  Main Techs</h2>
 <ul>
-<li>React</li>
-<li>Typescript</li>
-<li>Next.js</li>
 <li>Javascript</li>
+<li>React</li>
+<li>Next.js</li>
+<li>Typescript</li>
 <li>Styled components</li>
 <li>Tailwind Css</li>
 </ul>
